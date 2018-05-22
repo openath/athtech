@@ -1,4 +1,0 @@
-# athtech
-AthTech website
-
-Ready!
