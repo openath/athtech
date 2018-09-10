@@ -1,8 +1,15 @@
-- time: 09:00 - 11:30
+- time: 09:00 - 10:15
   info: "<p  style='margin-bottom: 0'><b>Welcome + Introduction</b>
-    <br>Welcome and introduction on the standardisation work, including:</p>
+    <br>Welcome and Keynote Speech:</p>
       <ul>
-        <li>A vision from the top <i>by <b>European Athletics</b></i></li>
+        <li>A vision from the top <i>by <b>Nicolas Launois, Technology Manager, European Athletics</b></i></li>
+        <li>The IAAF Digital Strategy <i>by <b>An Dang Duy, CIO, IAAF</b></i></li>
+      </ul>"
+      
+ - time: 10:15 - 11:30
+  info: "<p  style='margin-bottom: 0'><b>Welcome + Introduction</b>
+    <br>Introduction to the standardisation work, including:</p>
+      <ul>
         <li>Standards for athletics data collection <i>by <b>CTIC/W3C Spain</b></i></li>
         <li>Practical data sharing and the <b>OpenTrack</b> hub: Who are the users and how much data is collected; Reference data - organisations and venues; Results Capture - summary of first year</li>
         <li>GDPR - how it’s working out</li>
