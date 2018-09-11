@@ -29,13 +29,13 @@
 - time: 15:00 - 17:00
   info: "<p><b>Real-World Technologies in real scenarios</b>
     <br>Showcase of products and solutions for sports in a real-world environment.<br>
-    This session will be held at the local track and field stadium (see <a href='/venue#mestas'>Las Mestas in the venue section</a>).<br>
-    [Do you want to join this session as a speaker? <a href='/#contact'>Tell us</a>.</p>"
+    This session will be held at El Kilometrín, in front of the Abba Hotel.<br>
+    [Do you want to join this session and present something? <a href='/#contact'>Tell us</a>.</p>"
 
-- time: 18:00 - 19:00
-  info: "<p><b>KilometrinRUN</b><br>Handicap Relay Race at El Kilometrín.
-    <br>Twenty teams of different age and gender will participate on a competitive race where strategy is key. Read more information about KilometrinRUN.
-    <br>Meanwhile, we'll use them to test out various timing and scoring solutions</p>"
+- time: 17:00 - 18:00
+  info: "<p><b>AthTech Run</b><br>Handicap Relay Race at El Kilometrín and Technology Showcase<br>
+    Twenty teams of different age and gender will participate on a competitive race where strategy is key.<br>
+    Meanwhile, we'll use them to test out various timing and scoring solutions.<br>More information <a href='/run'>about AthTech Run</a>.</p>"
 
 - time: 20:00 - 22:00
   info: "<p><u><i>Espicha</i> (Dinner)</u></p>"
