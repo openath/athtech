@@ -10,11 +10,16 @@
   info: "<p  style='margin-bottom: 0'><b>The Standard</b>
     <br>Introduction to the standardisation work, including:</p>
       <ul>
-        <li>Standards for athletics data collection <i>by <b>CTIC/W3C Spain</b></i></li>
+        <li>Standards for athletics data collection</li>
         <li>Practical data sharing and the <b>OpenTrack</b> hub</li>
         <li>Reference data - giving IDs to organisations, competitions and venues</li>
         <li>Standards-based results capture - summary of the first year</li>
         <li>Do you want to join this session as a speaker? <a href='/#contact'>Tell us</a>.</li>
+      </ul>      
+      <p>Speakers:</p>
+      <ul>
+        <li><i><b>Martin Alvarez-Espinar, CTIC/W3C Spain</b></i></li>
+        <li><i><b>Andy Robinson, OpenTrack</b></i></li>
       </ul>"
 
 - time: 10:30 - 11:30
@@ -33,10 +38,12 @@
   info: "<p style='margin-bottom: 0'><b>Cutting-Edge Technologies for Data Management in Sports</b>
     <br>Presentation of technologies and solutions for data management in sports, including:</p>
       <ul>
+        <li>New business opportunities <i>by <b>Rubén Hidalgo, Director at Gijón Impulsa (Equilibria)</b></i></li>
         <li>Big data and analytics to enhance performance</li>
         <li>Statistics and data processing</li>
         <li>Visualization of sports data</li>
-        <li>Blockchain for trust</li>
+        <li>From performances to doping. Trust nobody, trust the blockchain. <i>by <b>Luis Meijueiro, Engineer at CTIC Technology Centre</b>
+</li>
         <li>Do you want to join this session as a speaker? <a href='/#contact'>Tell us</a>.</li>
       </ul>"
 
