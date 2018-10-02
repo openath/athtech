@@ -38,13 +38,21 @@
   info: "<p style='margin-bottom: 0'><b>Cutting-Edge Technologies for Data Management in Sports</b>
     <br>Presentation of technologies and solutions for data management in sports, including:</p>
       <ul>
-        <li>New business opportunities <i>by <b>Rubén Hidalgo, Director at Gijón Impulsa (Equilibria)</b></i></li>
-        <li>Video Distance Measurement Systems <i> by <b>Carlos Galindez (AGM Soft)</b></i></li>
-        <li>Big Data in Sport <i>by <b>Wenceslao Bover (Atos)</b></i></li> 
-        <li>Predictive analytics to enhance health and performance <i>by <b>Nacho Zabala (<a href='http://spodha.com'>SPODHA</a>)</b> & <b>Marcos Peón (RUNMARC)</b></i></li>
+        <li>New business opportunities</li>
+        <li>Video Distance Measurement Systems</li>
+        <li>Big Data in Sport</li> 
+        <li>Predictive analytics to enhance health and performance</li>
         <li>Visualization of sports data</li>
-        <li>From performances to doping. Trust nobody, trust the blockchain. <i>by <b>Luis Meijueiro, Engineer at CTIC Technology Centre</b>
-</li>
+        <li>From performances to doping. Trust nobody, trust the blockchain.</li>
+      </ul>
+      <p>Speakers:</p>
+      <ul>
+        <li><i><b>Carlos Galindez, AGM Soft</b></i></li>
+        <li><i><b>Luis Meijueiro, CTIC Technology Centre</b></i></li>
+        <li><i><b>Marcos Peón, RUNMARC</b></i></li>
+        <li><i><b>Nacho Zabala, SPODHA</b></i></li>
+        <li><i><b>Rubén Hidalgo, Director at Gijón Impulsa (Equilibria)</b></i></li>
+        <li><i><b>Wenceslao Bover, Atos</b></i></li>        
         <li>Do you want to join this session as a speaker? <a href='/#contact'>Tell us</a>.</li>
       </ul>"
 

@@ -34,7 +34,7 @@
       </ul>
       <p>Speakers:</p>
       <ul>
-        <li><i><b>Anacleto Jimenez, Director of Competition <abbr title='Real Federación Española de Atletismo'>RFEA</abbr> (Spanish Federation)</b></i></li>
+        <li><i><b>Anacleto Jimenez, Director of Competition <abbr lang='es' title='Real Federación Española de Atletismo'>RFEA</abbr> (Spanish Federation)</b></i></li>
         <li>[Do you want to join this session as a speaker? <a href='/#contact'>Tell us</a>.</li>
       </ul>"
 
@@ -62,9 +62,14 @@
   info: "<p style='margin-bottom: 0'><b>Sports Data Journalism</b>
     <br>Session with presentation of sports journalists and data experts on the following topics:</p>
       <ul>
-        <li>Story-telling across all media and statistics for news <i>by <b>José Ángel García, Head of Sports Department (El Comercio)</b></i></li>
+        <li>Story-telling across all media and statistics for news</li>
         <li>Running as a mean to get audience</li>
         <li>Making the most of data</li>
+      </ul>
+      <p>Speakers:</p>
+      <ul>
+        <li><i><b>José Ángel García, Head of Sports Department (El Comercio)</b></i></li>
+        <li><i><b>Phil Minshull, Athletics journalist</b></i></li>
         <li>[Do you want to join this session as a speaker? <a href='/#contact'>Tell us</a>.</li>
       </ul>"
 
