@@ -21,19 +21,19 @@
         <li><i><b>Andy Robinson, OpenTrack</b></i></li>
       </ul>"
 
-- time: 10:30 - 10:45
+- time: 10:30 - 11:00
   info: "<p><u>Coffee Break</u></p>"
 
-- time: 10:45 - 12:00
-  info: "<p  style='margin-bottom: 0'><b>GDPR - Where next?</b>
-    <br>GDPR - where next?</p>
+- time: 11:00 - 12:00
+  info: "<p  style='margin-bottom: 0'><b>GDPR - Where next?</b></p>
       <ul>
         <li><b>David Brunsdon</b>, Head of Compliance, First Rate Exchange Services, UK: how GDPR and the legislation on electronic marketing have been applied and rolled out</li>
-        <li>Tell us how your country has applied and interpreted things</li>
+        <li>Workshop:  Tell us how your country has applied and interpreted things</li>
       </ul>"
 
 - time: 12:00 - 13:30
   info: "<p style='margin-bottom: 0'><b>Cutting-Edge Technologies for Data Management in Sports</b>
+    
     <br>Presentation of technologies and solutions for data management in sports, including:</p>
       <ul>
         <li>New business opportunities</li>
@@ -63,10 +63,13 @@
 - time: 16:00 - 17:00
   info: "<p><b>Real-World Technologies in real scenarios</b>
     <br>Showcase of products and solutions for sports in a real-world environment.<br>
-    This session will be held at El Kilometrín, in front of the Abba Hotel.<br>
+    This will start in the hotel but may move to El Kilometrín, depending on demos.<br>
     - SmarTracks by Johannes Rosenmoeller (Humotion)<br> 
+    - race|result by Elliot Tabraham-Dowers (race|result)<br> 
     - Video Recording system by Carlos Galindez (AGM Soft)<br>
-    Continuation at El Kilometrin.</p>"
+    Continuation at El Kilometrin.<br>
+    <i>Let us know if you want to demo something!</i></p>
+    "
 
 - time: 17:00 - 19:00
   info: "<p><b>AthTech Run</b><br>Handicap Relay Race at El Kilometrín and Technology Showcase<br>
@@ -76,4 +79,4 @@
     Meanwhile, we'll use them to test out various timing and scoring solutions.<br>More information <a href='/run'>about AthTech Run</a>.</p>"
 
 - time: 20:30 - 22:00
-  info: "<p><u><i>Dinner</i></u></p>"
+  info: "<p><u><i>Conference Dinner, at local restaurant</i></u></p>"
