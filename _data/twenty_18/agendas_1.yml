@@ -14,7 +14,6 @@
         <li>Practical data sharing and the <b>OpenTrack</b> hub</li>
         <li>Reference data - giving IDs to organisations, competitions and venues</li>
         <li>Standards-based results capture - summary of the first year</li>
-        <li>Do you want to join this session as a speaker? <a href='/#contact'>Tell us</a>.</li>
       </ul>      
       <p>Speakers:</p>
       <ul>
@@ -22,17 +21,16 @@
         <li><i><b>Andy Robinson, OpenTrack</b></i></li>
       </ul>"
 
-- time: 10:30 - 11:30
+- time: 10:30 - 10:45
+  info: "<p><u>Coffee Break</u></p>"
+
+- time: 10:45 - 12:00
   info: "<p  style='margin-bottom: 0'><b>GDPR - Where next?</b>
     <br>GDPR - where next?</p>
       <ul>
         <li><b>David Brunsdon</b>, Head of Compliance, First Rate Exchange Services, UK: how GDPR and the legislation on electronic marketing have been applied and rolled out</li>
         <li>Tell us how your country has applied and interpreted things</li>
-        <li>Do you want to join this session as a speaker? <a href='/#contact'>Tell us</a>.</li>
       </ul>"
-
-- time: 11:30 - 12:00
-  info: "<p><u>Coffee Break</u></p>"
 
 - time: 12:00 - 13:30
   info: "<p style='margin-bottom: 0'><b>Cutting-Edge Technologies for Data Management in Sports</b>
@@ -53,24 +51,27 @@
         <li><i><b>Nacho Zabala, SPODHA</b></i></li>
         <li><i><b>Rubén Hidalgo, Director at Gijón Impulsa (Equilibria)</b></i></li>
         <li><i><b>Wenceslao Bover, Atos</b></i></li>        
-        <li>Do you want to join this session as a speaker? <a href='/#contact'>Tell us</a>.</li>
       </ul>"
 
 - time: 13:30 - 15:00
   info: "<p><u>Lunch</u></p>"
 
-- time: 15:00 - 17:00
+- time: 15:00 - 16:00
+  info: "<p style='margin-bottom: 0'><b>Continuation of the previous session.</b></p>"
+
+
+- time: 16:00 - 17:00
   info: "<p><b>Real-World Technologies in real scenarios</b>
     <br>Showcase of products and solutions for sports in a real-world environment.<br>
     This session will be held at El Kilometrín, in front of the Abba Hotel.<br>
     - SmarTracks by Johannes Rosenmoeller (Humotion)<br> 
     - Video Recording system by Carlos Galindez (AGM Soft)<br>
-    [Do you want to join this session and present something? <a href='/#contact'>Tell us</a>.</p>"
+    Continuation at El Kilometrin.</p>"
 
-- time: 17:00 - 18:00
+- time: 17:00 - 19:00
   info: "<p><b>AthTech Run</b><br>Handicap Relay Race at El Kilometrín and Technology Showcase<br>
     Twenty teams of different age and gender will participate on a competitive race where strategy is key.<br>
     Meanwhile, we'll use them to test out various timing and scoring solutions.<br>More information <a href='/run'>about AthTech Run</a>.</p>"
 
-- time: 20:00 - 22:00
-  info: "<p><u><i>Espicha</i> (Dinner)</u></p>"
+- time: 20:30 - 22:00
+  info: "<p><u><i>Dinner</i></u></p>"
