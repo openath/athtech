@@ -49,7 +49,6 @@
         <li><i><b>Luis Meijueiro, CTIC Technology Centre</b></i></li>
         <li><i><b>Marcos Peón, RUNMARC</b></i></li>
         <li><i><b>Nacho Zabala, SPODHA</b></i></li>
-        <li><i><b>Rubén Hidalgo, Director at Gijón Impulsa (Equilibria)</b></i></li>
         <li><i><b>Wenceslao Bover, Atos</b></i></li>        
       </ul>"
 
@@ -74,9 +73,9 @@
 - time: 17:00 - 19:00
   info: "<p><b>AthTech Run</b><br>Handicap Relay Race at El Kilometrín and Technology Showcase<br>
     Before the race, at 17:00, explanation of technologies, devices, etc.<br>
-    Race starts at 18:00 but tests will be performed during the whole evening (17:00-19:00).<br>
+    Race starts at 18:15 but tests will be performed during the whole evening (17:00-19:00).<br>
     Twenty teams of different age and gender will participate on a competitive race where strategy is key.<br>
     Meanwhile, we'll use them to test out various timing and scoring solutions.<br>More information <a href='/run'>about AthTech Run</a>.</p>"
 
 - time: 20:30 - 22:00
-  info: "<p><u><i>Conference Dinner, at local restaurant</i></u></p>"
+  info: "<p><u><i>Conference Dinner, at <a href="https://www.google.es/maps/place/Sidrer%C3%ADa+Tierra+Astur+Poniente/@43.5430344,-5.6708011,15z/data=!4m5!3m4!1s0x0:0x5c0da5c12483e62d!8m2!3d43.541479!4d-5.674921">Sidrería Tierra Astur</a></i></u></p>"
