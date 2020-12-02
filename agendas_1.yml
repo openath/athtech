@@ -1,0 +1,82 @@
+- time: 09:00 - 09:45
+  info: "<p  style='margin-bottom: 0'><b>Welcome + Introduction</b>
+    <br>Welcome and Keynote Speech:</p>
+      <ul>
+        <li>A vision from the top <i>by <b>Nicolas Launois, Technology Manager, European Athletics</b></i></li>
+        <li>The IAAF Digital Strategy <i>by <b>An Dang Duy, CIO, IAAF</b></i></li>
+      </ul>"
+
+- time: 09:45 - 10:30
+  info: "<p  style='margin-bottom: 0'><b>The Standard</b>
+    <br>Introduction to the standardisation work, including:</p>
+      <ul>
+        <li>Standards for athletics data collection</li>
+        <li>Practical data sharing and the <b>OpenTrack</b> hub</li>
+        <li>Reference data - giving IDs to organisations, competitions and venues</li>
+        <li>Standards-based results capture - summary of the first year</li>
+      </ul>      
+      <p>Speakers:</p>
+      <ul>
+        <li><i><b>Martin Alvarez-Espinar, CTIC/W3C Spain</b></i></li>
+        <li><i><b>Andy Robinson, OpenTrack</b></i></li>
+      </ul>"
+
+- time: 10:30 - 11:00
+  info: "<p><u>Coffee Break</u></p>"
+
+- time: 11:00 - 12:00
+  info: "<p  style='margin-bottom: 0'><b>GDPR - Where next?</b></p>
+      <ul>
+        <li><b>David Brunsdon</b>, Head of Compliance, First Rate Exchange Services, UK: how GDPR and the legislation on electronic marketing have been applied and rolled out</li>
+        <li>Workshop:  Tell us how your country has applied and interpreted things</li>
+      </ul>"
+
+- time: 12:00 - 13:30
+  info: "<p style='margin-bottom: 0'><b>Cutting-Edge Technologies for Data Management in Sports</b>
+    
+    <br>Presentation of technologies and solutions for data management in sports, including:</p>
+      <ul>
+        <li>New business opportunities</li>
+        <li>Video Distance Measurement Systems</li>
+        <li>Big Data in Sport</li> 
+        <li>Predictive analytics to enhance health and performance</li>
+        <li>Visualization of sports data</li>
+        <li>From performances to doping. Trust nobody, trust the blockchain.</li>
+      </ul>
+      <p>Speakers:</p>
+      <ul>
+        <li><i><b>Carlos Galindez, AGM Soft</b></i></li>
+        <li><i><b>Luis Meijueiro, CTIC Technology Centre</b></i></li>
+        <li><i><b>Marcos Peón, RUNMARC</b></i></li>
+        <li><i><b>Nacho Zabala, SPODHA</b></i></li>
+        <li><i><b>Wenceslao Bover, Atos</b></i></li>        
+      </ul>"
+
+- time: 13:30 - 15:00
+  info: "<p><u>Lunch</u></p>"
+
+- time: 15:00 - 16:00
+  info: "<p style='margin-bottom: 0'><b>Continuation of the previous session.</b></p>"
+
+
+- time: 16:00 - 17:00
+  info: "<p><b>Real-World Technologies in real scenarios</b>
+    <br>Showcase of products and solutions for sports in a real-world environment.<br>
+    This will start in the hotel but may move to El Kilometrín, depending on demos.<br>
+    - SmarTracks by Johannes Rosenmoeller (Humotion)<br> 
+    - race|result by Elliot Tabraham-Dowers (race|result)<br> 
+    - Video Recording system by Carlos Galindez (AGM Soft)<br>
+    Continuation at El Kilometrin.<br>
+    <i>Let us know if you want to demo something!</i></p>
+    "
+
+- time: 17:00 - 19:00
+  info: "<p><b>AthTech Run</b><br>Handicap Relay Race at El Kilometrín and Technology Showcase<br>
+    Before the race, at 17:00, explanation of technologies, devices, etc.<br>
+    Race starts at 18:15 but tests will be performed during the whole evening (17:00-19:00).<br>
+    Twenty teams of different age and gender will participate on a competitive race where strategy is key.<br>
+    Meanwhile, we'll use them to test out various timing and scoring solutions.<br>More information <a href='/run'>about AthTech Run</a>.</p>"
+
+- time: 20:30 - 22:00
+  info: "<p><u><i>Conference Dinner, at <a href='https://www.google.es/maps/place/Sidrer%C3%ADa+Tierra+Astur+Poniente/@43.5430344,-5.6708011,15z/data=!4m5!3m4!1s0x0:0x5c0da5c12483e62d!8m2!3d43.541479!4d-5.674921'>Sidrería Tierra Astur</a></i></u></p>"
+
