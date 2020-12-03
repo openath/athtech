@@ -2,28 +2,28 @@
   img: icon-about.jpeg
   name: Topics, Vision, Objectives
   info: Theme, audience and objectives of the conference
-  link: /about
+  link: /2021/about
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
   info: Check out the agenda
-  link: /agenda
+  link: /2021/agenda
 
 - inverted: 
   img: icon-team.jpeg
   name: Organising Committee
   info: Find out who is behind this conference
-  link: /team
+  link: /2021/team
 
 - inverted: timeline-inverted
   img: booklet-icon.png
   name: Register
   info: Register through the OpenTrack Platform 
-  link: /register
+  link: /2021/register
 
 - inverted:
   img: icon-venue.jpeg
   name: Venue
   info: Learn more about the conference's location
-  link: /venue
+  link: /2021/venue
