@@ -17,7 +17,12 @@ social:
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-include: ['_2021_pages']
+include:
+  - _2018_pages
+  - _2021_pages
+  - index_2021.html
+  - index.html
+  - 404.html
 
 plugins:
   - jekyll-sitemap
