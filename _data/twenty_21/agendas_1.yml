@@ -1,7 +1,11 @@
-- time: 09:00 - 09:45
-  info: "<p  style='margin-bottom: 0'><b>Welcome + Introduction</b>
-    <br>Welcome and Keynote Speech:</p>
-      <ul>
-        <li>A vision from the top <i>by <b>Nicolas Launois, Technology Manager, European Athletics</b></i></li>
-        <li>The IAAF Digital Strategy <i>by <b>An Dang Duy, CIO, IAAF</b></i></li>
-      </ul>"
+- time: Track & Field Event Organisation and Management Workshop
+  info: "<p style='margin-bottom: 0'><b>Pablo Cassina</b>
+  <p>President of European Athletics Promotion Circuit</p>"
+       
+- time: Athlete Representatives - Managing your athlete's competition season
+  info: "<p style='margin-bottom: 0'><b>Duje Bonacci</b>
+  <p>TrackMeetingsInfo</p>"
+
+- time: Managing your competition through OpenTrack - hands on training
+  info: "<p style='margin-bottom: 0'><b>Andy Robinson</b>
+  <p>Managing Director of OpenTrack</p>"
