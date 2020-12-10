@@ -5,12 +5,12 @@
   thumbnail: ea_logo.png
   alt: European Athletics
 
-- title: CTIC Technology Centre
-  url: http://www.ctic.es
-  subtitle: W3C Spain Office Host
-  img: ctic-w3c.png
-  thumbnail: ctic-w3c.png
-  alt: CTIC / W3C Spain
+- title: TrackMeetingsInfo
+  url: https://trackmeetings.info/
+  subtitle: 
+  img: tmi-logo.png
+  thumbnail: tmi-logo.png
+  alt: TrackMeetingsInfo
   
 - title: OpenTrack Ltd.
   url: https://opentrack.run/
@@ -18,3 +18,24 @@
   img: opentrack.png
   thumbnail: opentrack.png
   alt: Opentrack
+
+- title: EAP Circuit
+  url: http://www.eap-circuit.org/
+  subtitle: 
+  img: eap-logo.png
+  thumbnail: eap-logo.png
+  alt: EAP circuit
+
+- title: University of Zadar
+  url: https://www.unizd.hr/
+  subtitle: 
+  img: zadar-uni-logo.jpg
+  thumbnail: zadar-uni-logo.jpg
+  alt: University of Zadar
+
+- title: Športski Centar Višnjiks
+  url: https://visnjik.hr/
+  subtitle:
+  img: visnjik-logo.png
+  thumbnail: visnjik-logo.png
+  alt: Športski Centar Višnjiks
