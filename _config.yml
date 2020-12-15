@@ -23,6 +23,7 @@ include:
   - index_2021.html
   - index.html
   - 404.html
+  - css
 
 plugins:
   - jekyll-sitemap
