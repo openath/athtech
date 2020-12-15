@@ -18,8 +18,8 @@
 
 - inverted: timeline-inverted
   img: booklet-icon.png
-  name: Register
-  info: Register through the OpenTrack Platform 
+  name: Register interest
+  info: Register your interest through our google form 
   link: /2021/register
 
 - inverted:
