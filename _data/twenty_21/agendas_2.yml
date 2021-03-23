@@ -1,5 +1,12 @@
 - time: Athletics Technology Fair
-  info: "<p style='margin-bottom: 0'>Chance for meeting organisers to showcase and compare products</p>"
+  info: "<p>Chance for meeting organisers to showcase and compare products</p>"
 
-- time: Hackathons/sprints to connect systems
-  info: "<p style='margin-bottom: 0'>n/a</p>"
+- time: Hackathons
+  info: "<p>Sprints to connect systems</p>"
+
+- time: Food
+  info: "<p>Recommended seafront bars/restaurants to congregate in</p>"
+
+- time: B2B sailing trip
+  info: "<p style='margin-bottom: 0'><b>Tuesday 21st Sep</b></p>
+  <p>Lunch on an island 2 hours away, for people in sports business</p>"
