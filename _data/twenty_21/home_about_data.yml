@@ -19,8 +19,8 @@
 - inverted: timeline-inverted
   img: booklet-icon.png
   name: Register interest
-  info: Register your interest through our google form 
-  link: /2021/register
+  info: Register your interest through on the OpenTrack entry system 
+  link: https://data.opentrack.run/en-gb/x/2021/HRV/athtech/
 
 - inverted:
   img: icon-venue.jpeg
