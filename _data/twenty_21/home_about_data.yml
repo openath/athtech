@@ -10,11 +10,11 @@
   info: Check out the agenda
   link: /2021/agenda
 
-- inverted: 
-  img: icon-team.jpeg
-  name: Organising Committee
-  info: Find out who is behind this conference
-  link: /2021#team
+- inverted:
+  img: icon-venue.jpeg
+  name: Venue
+  info: Learn more about the conference's location
+  link: /2021/venue
 
 - inverted: timeline-inverted
   img: booklet-icon.png
@@ -22,8 +22,4 @@
   info: Register your interest through on the OpenTrack entry system 
   link: https://data.opentrack.run/en-gb/x/2021/HRV/athtech/
 
-- inverted:
-  img: icon-venue.jpeg
-  name: Venue
-  info: Learn more about the conference's location
-  link: /2021/venue
+
