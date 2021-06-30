@@ -16,6 +16,7 @@ published: true
 
       <p>Here is the provisional agenda for AthTech21:</p>
 
+        <!---
         <h2>Workshops and seminars</h2>
         <table class="agenda">
             <thead>
@@ -33,6 +34,80 @@ published: true
                 {% endfor %}
             </tbody>
         </table>
+        -->
+
+        <h2>Monday 20th September</h2>
+        <p>Available for hackathons and workshops.</p>
+
+        <h2>Tuesday 21st September</h2>
+        <p>Available for hackathons and workshops.</p>
+        <ul>
+            <li>B2B sailing trip, lunch on an island 2 hours away, for key players in sports business.</li>
+            <li>Fly in, if here for main conference.</li>
+            <li>Evening: watch jumps gala (MAYBE in historic seafront), youth athletics meeting.</li>
+            <li>Recommended seafront bars/restaurants to congregate in.</li>
+        </ul>
+        <p>OpenTrack federation workshops.</p>
+
+        <h2>Wednesday 22nd September</h2>
+        <h3>Day 1 athletics conference talks</h3>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+            </thead>
+            <tbody>
+                {% for agenda in site.data.twenty_21.agendas_wed %}
+                    <tr>
+                        <td>{{ agenda.time }}</td>
+                        <td>{{ agenda.info }}</td>
+                    </tr> 
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <h2>Thursday 23rd September</h2>
+        <h3>Day 2 athletics conference talks</h3>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+            </thead>
+            <tbody>
+                {% for agenda in site.data.twenty_21.agendas_thurs %}
+                    <tr>
+                        <td>{{ agenda.time }}</td>
+                        <td>{{ agenda.info }}</td>
+                    </tr> 
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <h2>Friday 24th September</h2>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+            </thead>
+            <tbody>
+                {% for agenda in site.data.twenty_21.agendas_fri %}
+                    <tr>
+                        <td>{{ agenda.time }}</td>
+                        <td>{{ agenda.info }}</td>
+                    </tr> 
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <h2>Saturday 25th September</h2>
+        <p>Why not stay the weekend?</p>
+        <p>Free time, watch more sports!</p>
 
         <h2>Other activities taking place throughout the conference</h2>
         <table class="agenda">

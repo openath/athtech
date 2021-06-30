@@ -1,25 +1,25 @@
 - time: 09:00 - 10:30
-  info: "<p>Keynote - European Athletics, World Athletics
+  info: "<p><b>Keynote - European Athletics, World Athletics</b>
 <i><br>View from governing bodies, where they are, where they want to go
 <br>Questions from the floor - chaired by AW?
 <br>Christian Milz, An Dang Duy</i>
 </p>"
 
 - time: 10:30 - 10:45
-  info: "<p>Coffee break</p>"
+  info: "<p><b>Coffee break</b></p>"
 
 - time: 10:45 - 11:15
-  info: "<p>Progress towards a single Calendar  (AR and Nicolas)
+  info: "<p><b>Progress towards a single Calendar  (AR and Nicolas)</b>
 <i><br>Challenges after the first season
 <br>Where the standards are (Martin)
 <br>World Athletics competitions person, Duje</i>
 </p>"
 
 - time: 11:15 - 12:30
-  info: "<p>Brunch & networking</p>"
+  info: "<p><b>Brunch & networking</b></p>"
 
 - time: 12:30 - 15:00
-  info: "<p>Live broadcast and Streaming
+  info: "<p><b>Live broadcast and Streaming</b>
 <i><br>Anyone can show what they are doing
 <br>Affordable titles and live streaming - Jonny Currie
 <br>How pros do it?  Vinco? Serbia
@@ -30,10 +30,10 @@
   info: "<p>Free time; street food, breakout rooms available (until as late as you want)</p>"
 
 - time: 18:00 - 20:30
-  info: "<p>EAP meeting
-<br>Hands on demos of technology and systems in action by vendors
-<br>OpenTrack in action
+  info: "<p><b>EAP meeting</b>
+<i><br>Hands on demos of technology and systems in action by vendors
+<br>OpenTrack in action</i>
 </p>"
 
 - time: 20:00 - 22:00
-  info: "<p>Dinner - informal</p>"
+  info: "<p><b>Dinner - informal</b></p>"
