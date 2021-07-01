@@ -348,7 +348,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/css/2021_style/img/zadar.jpg');
+    background-image: url('{{ site.baseurl }}/css/2021_style/img/zadar-black.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
