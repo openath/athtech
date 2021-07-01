@@ -1,25 +1,25 @@
 - inverted: 
   img: icon-about.jpeg
   name: Topics, Vision, Objectives
-  info: Theme, audience and objectives of the conference
+  info: Learn more about the objectives of the conference and how we are seeking to <i>shape the future of Athletics</i>
   link: /2021/about
 
 - inverted: timeline-inverted
   img: icon-agenda.jpeg
   name: Agenda
-  info: Check out the agenda
+  info: Monday 20th - Friday 25th September <br> <i>Athletics conference talks on Wed 22nd & Thurs 23rd</i>
   link: /2021/agenda
 
 - inverted:
   img: icon-venue.jpeg
   name: Venue
-  info: Learn more about the conference's location
+  info: Find out about the beautiful city of <i>Zadar</i> <br> & how to get here
   link: /2021/venue
 
 - inverted: timeline-inverted
   img: booklet-icon.png
   name: Register interest
-  info: Register your interest through on the OpenTrack entry system 
+  info: Register your interest for the conference through on the OpenTrack entry system 
   link: https://data.opentrack.run/en-gb/x/2021/HRV/athtech/
 
 
