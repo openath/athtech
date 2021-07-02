@@ -20,9 +20,16 @@
 
 - time: 12:30 - 15:00
   info: "<p><b>Live broadcast and Streaming</b>
-<i><br>Anyone can show what they are doing
-<br>Affordable titles and live streaming (Jonny Currie)
-<br>How pros do it (VincoSport, AMA Livestreaming)
+<i><br>Anyone can show what they are doing</i>
+<p></p>
+<button class='collapsible'>Affordable livestreaming - Jonny Currie</button>
+<div class='content'>
+<p>High-end athletics events can afford to bring in professional livestream production companies to cover their meetings, but there is an increasing demand for live media coverage of smaller scale events too.
+<br><br>Affordable and accessible livestreaming softwares are on the rise, and local events are now able to provide live media coverage on a limited budget.
+<br><br>A hands-on demonstration will be provided of how high-level but small-scale athletics meetings have been broadcast in the UK using OBS streaming software and OpenTrack TV graphics, as well as a discussion on innovation in the area and how grassroots athletics can be promoted to a wider audience.
+</p>
+</div>
+<i><br>How pros do it (VincoSport, AMA Livestreaming)
 <br>The case for a standard lightweight messaging format</i>
 </p>"
 
