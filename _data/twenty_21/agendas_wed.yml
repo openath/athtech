@@ -1,28 +1,31 @@
 - time: 09:00 - 10:30
-  info: "<p><b>Keynote - European Athletics, World Athletics</b>
-<i><br>View from governing bodies, where they are, where they want to go
-<br>Questions from the floor
-<br>Christian Milz, An Dang Duy</i>
+  info: "<p><b>Keynote 1: <br>View from governing bodies, where they are, where they want to go</b>
+<br>We will hear the technology strategy of the 2 biggest international athletics bodies and have the opportunity for questions.
+<ul>
+<li>Christian Milz <i>(CEO, European Athletics)</i></li>
+<li>An Dang Duy <i>(CIO, World Athletics)</i></li>
+</ul>
 </p>"
 
 - time: 10:30 - 10:45
   info: "<p><b>Coffee break</b></p>"
 
 - time: 10:45 - 11:15
-  info: "<p><b>Progress towards a single Calendar  (Andy Robinson and Nicolas Launois)</b>
-<i><br>Challenges after the first season
-<br>Where the standards are (Martin Alvarez)
-<br>World Athletics competitions (Duje Bonacci)</i>
-</p>"
+  info: "<p><b>Progress towards a single athletics calendar</b>
+<br>Three presentations looking at the road to making everyone’s life easier by having a common calendar repository and set of standards.</p>
+<ul><li>After the first year of the European project we will review the challenges ahead. <br><i>(Andy Robinson, OpenTrack CEO, and Nicolas Launois, EA Head of Digital)</i></li>
+<li>The drive to a common data standard to allow calendar events to be passed between systems. <br><i>(Martin Alvarez, Huawei)</i></li>
+<li>A real world example of  a calendar tool. <br><i>(Duje Bonacci, trackmeetings.info)</i></li>
+</ul>"
 
 - time: 11:15 - 12:30
   info: "<p><b>Brunch & networking</b></p>"
 
 - time: 12:30 - 15:00
   info: "<p><b>Live broadcast and Streaming</b>
-<i><br>Anyone can show what they are doing</i>
+<br>Covid has taught us that people want to watch athletics at all levels from low key fixtures up to major championships. We want to display the options available for a range of budgets.
 <p></p>
-<button class='collapsible'>Affordable livestreaming - Jonny Currie</button>
+<button class='collapsible'>Affordable livestreaming - Jonny Currie (University of Birmingham)</button>
 <div class='content'>
 <p>High-end athletics events can afford to bring in professional livestream production companies to cover their meetings, but there is an increasing demand for live media coverage of smaller scale events too.
 <br><br>Affordable and accessible livestreaming softwares are on the rise, and local events are now able to provide live media coverage on a limited budget.
