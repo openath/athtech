@@ -95,13 +95,29 @@ published: true
 
         <h2>Tuesday 21st September</h2>
         <p>Available for hackathons and workshops.</p>
-        <p>OpenTrack federation workshops.</p>
         <ul>
             <li>B2B sailing trip, lunch on an island 2 hours away.</li>
             <li>Fly in, if here for main conference.</li>
             <li>Evening: watch jumps gala on historic seafront.</li>
             <li>Recommended seafront bars/restaurants to congregate in.</li>
         </ul>
+        <h3>OpenTrack federation workshops</h3>
+        <table class="agenda">
+            <thead>
+                <tr>
+                    <th class="row-1 agenda-time"><center>Time</center></th>
+                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                </tr>
+            </thead>
+            <tbody>
+                {% for agenda in site.data.twenty_21.agendas_tues %}
+                    <tr>
+                        <td>{{ agenda.time }}</td>
+                        <td>{{ agenda.info }}</td>
+                    </tr> 
+                {% endfor %}
+            </tbody>
+        </table>
 
         <h2>Wednesday 22nd September</h2>
         <h3>Day 1 athletics conference talks</h3>
