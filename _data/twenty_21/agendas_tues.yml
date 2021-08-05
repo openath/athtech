@@ -1,19 +1,27 @@
 - time: TBC
   info: "<p>OpenTrack's creators, including CEO Andy Robinson, are putting on a series of insightful workshops, for both existing and prospective customers, to gain experience and insight into what OpenTrack's software can offer, as well as hearing any questions and feedback you may have.
-  <br><b>Competition Management System (CMS) Workshop</b>
-<br>Hear all about the revolutionary <i>Competition Management System</i>, along with in-depth training on using the system. There will be the opportunity to experience all aspects of the system, and to offer questions and feedback to further improve the user experience.
+<p></p>
+<button class='collapsible'>Competition Management System (CMS) Workshop</button>
+<div class='content'>
+<p>Hear all about the revolutionary <i>Competition Management System</i>, along with in-depth training on using the system. There will be the opportunity to experience all aspects of the system, and to offer questions and feedback to further improve the user experience.
+</p>
+</div>
 <br>
+<button class='collapsible'>Federation Management Workshop</button>
+<div class='content'>
+<p>Aimed at national federations, hear all about OpenTrack's <i>Federation Management</i> capabilities, including managing memberships, historical rankings, competition platform, and so much more. Many of OpenTrack's current federation customers will be in attendance, offering feedback from their experience. There will be the opportunity for in-depth questioning, and to ask about potential bespoke features for <b>your</b> federation.
+</p>
+</div>
 <br>
-<b>Federation Management Workshop</b>
-<br>Aimed at national federations, hear all about OpenTrack's <i>Federation Management</i> capabilities, including managing memberships, historical rankings, competition platform, and so much more. Many of OpenTrack's current federation customers will be in attendance, offering feedback from their experience. There will be the opportunity for in-depth questioning, and to ask about potential bespoke features for <b>your</b> federation.
-<br>
-<br>
-<b>Paid Entry System Workshop</b>
-<br>OpenTrack's software and management system facilitates competitions at all levels, and for all ages. This has included:
+<button class='collapsible'>Paid Entry System Workshop</button>
+<div class='content'>
+<p>OpenTrack's software and management system facilitates competitions at all levels, and for all ages. This has included:
 <ul><li>Regional Continental Competitions - the <a href=https://data.opentrack.run/en-gb/x/2021/SRB/bch21/>2021 Balkan Championships</a> used OpenTrack's entry system to manange the 18 nation competition.</li>
-<li>Masters Competitions - with Masters athletics rapidly expanding continentally, OpenTrack are providing affordable solutions for both athlete management and competitions, including the <a href=https://data.opentrack.run/en-gb/x/2021/HRV/otmastersgala>OpenTrack Masters Gala</a> to be held on the 23rd September.</li>
-<li>Virtual Competitions - OpenTrack led the way throughout the pandemic, hosting the UK's largest virtual events.</li>
+<li>Masters Competitions - with Masters athletics rapidly expanding continentally, OpenTrack are providing affordable solutions for both athlete management and competitions, including this summer's <a href=https://data.opentrack.run/en-gb/x/2021/GBR/bmaf-otfc>British Masters Track & Field Championships</a> and the <a href=https://data.opentrack.run/en-gb/x/2021/HRV/otmastersgala>OpenTrack Masters Gala</a> to be held on the 23rd September.</li>
+<li>Virtual Competitions - OpenTrack led the way throughout the pandemic, hosting the UK's largest virtual events - including the <a href=https://data.opentrack.run/en-gb/x/2020/GBR/vnrrc/>2020 Virtual National Road Relay Championships</a>, which saw more than 5,000 competitors compete during the first lockdown.</li>
 </ul>
 <br>Hear how the system could be of use for your competitions, and offer feedback for the future.
-<br>These workshops will all take a collaborative approach, and we'd be delighted to welcome as many of you as possible!
+</p>
+</div>
+<br><br>These workshops will all take a collaborative approach, and we'd be delighted to welcome as many of you as possible!
 </p>"
