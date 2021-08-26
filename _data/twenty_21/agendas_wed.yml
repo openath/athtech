@@ -29,18 +29,18 @@
 <br>Covid has taught us that people want to watch athletics at all levels from low key fixtures up to major championships. We want to display the options available for a range of budgets.
 
 <p></p>
-<button class='collapsible'>Streaming at the European Championships- Paul Castel (MatSport) and Antonio Seoane (ATOS)</button>
+<button class='collapsible'>Streaming at the European Championships<br><i>Paul Castel (MatSport) and Antonio Seoane (ATOS)</i></button>
 <div class='content'>
 <p></p>
 </div>
 
-<p></p><button class='collapsible'>Streaming elite-level meetings in Serbia meetings- Danilo Lukic (Elegra)</button>
+<p></p><button class='collapsible'>Streaming elite-level meetings in Serbia meetings<br><i>Danilo Lukic (Elegra)</i></button>
 <div class='content'>
 <p></p>
 </div>
 
 <p></p>
-<button class='collapsible'>Affordable livestreaming - Jonny Currie (University of Birmingham)</button>
+<button class='collapsible'>Affordable livestreaming<br><i>Jonny Currie (University of Birmingham)</i></button>
 <div class='content'>
 <p>High-end athletics events can afford to bring in professional livestream production companies to cover their meetings, but there is an increasing demand for live media coverage of smaller scale events too.
 <br><br>Affordable and accessible livestreaming software is on the rise, and local events are now able to provide live media coverage on a limited budget.
@@ -52,12 +52,15 @@
 </p>"
 
 - time: 15:30 - 18:30
-  info: "<p>Vendor technology demonstrations at the stadium</b> street food, breakout rooms available (until as late as you want)</p>
-  <br>OpenTrack will be demonstrating their competition management system.
-  <br>Humotion will demonstrate their solution to capture and record training activities and results.
-  <br>Any other vendors attending are welcome to show their solutions 'in context', with athletes and officials available.
+  info: "<p><b>Vendor technology demonstrations at the stadium</b> 
+  <br>Street food, breakout rooms available (until as late as you want).
+  <br><br><a href='https://opentrack.run/'>OpenTrack</a> will be demonstrating their competition management system.
+  <br><br><a href='https://humotion.net/en/home/'>Humotion</a> will demonstrate their solution to capture and record training activities and results.
+  <br><br>Any other vendors attending are welcome to show their solutions 'in context', with athletes and officials available.
+  </p>
   "
 
 
 - time: 20:00 - 22:00
-  info: "<p><b>Dinner - (offered within Hotel Kolovare for EA delegates; many informal options in downtown Zadar)</b></p>"
+  info: "<p><b>Dinner</b>
+  <br>Offered within Hotel Kolovare for EA delegates; many informal options in downtown Zadar</p>"
