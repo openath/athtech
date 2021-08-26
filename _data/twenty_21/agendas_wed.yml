@@ -27,9 +27,19 @@
 - time: 12:30 - 15:00
   info: "<p><b>Live broadcast and Streaming</b>
 <br>Covid has taught us that people want to watch athletics at all levels from low key fixtures up to major championships. We want to display the options available for a range of budgets.
+
 <p></p>
 <button class='collapsible'>Streaming at the European Championships- Paul Castel (MatSport) and Antonio Seoane (ATOS)</button>
-<button class='collapsible'>Streaming elite-level meetings in Serbia meetings- Danilo Lukic (Elegra)</button>
+<div class='content'>
+<p></p>
+</div>
+
+<p></p><button class='collapsible'>Streaming elite-level meetings in Serbia meetings- Danilo Lukic (Elegra)</button>
+<div class='content'>
+<p></p>
+</div>
+
+<p></p>
 <button class='collapsible'>Affordable livestreaming - Jonny Currie (University of Birmingham)</button>
 <div class='content'>
 <p>High-end athletics events can afford to bring in professional livestream production companies to cover their meetings, but there is an increasing demand for live media coverage of smaller scale events too.
@@ -43,9 +53,9 @@
 
 - time: 15:30 - 18:30
   info: "<p>Vendor technology demonstrations at the stadium</b> street food, breakout rooms available (until as late as you want)</p>
-  <p>OpenTrack will be demonstrating their competition management system</p>
-  <p>Humotion will demonstrate their solution to capture and record training activities and results</p>
-  <p>Any other vendors attending are welcome to show their solutions "in context", with athletes and officials available</p>
+  <br>OpenTrack will be demonstrating their competition management system.
+  <br>Humotion will demonstrate their solution to capture and record training activities and results.
+  <br>Any other vendors attending are welcome to show their solutions 'in context', with athletes and officials available.
   "
 
 
