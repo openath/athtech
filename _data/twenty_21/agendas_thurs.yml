@@ -8,13 +8,24 @@
 
 - time: 13:00 - 15:00
   info: "<p><b>The future of communicating with fans</b>
-<br>Moderated by <a href=https://twitter.com/philminshull>Phil Minshull</a>, Editorial Consultant to European Athletics, this session explores how to improve the fan experience. 
 <br>Athletics is the best sport in the world, so how do we keep the fan base engaged? What technology could make the experience even better?
-<ul><li>Social media - best strategies for communication.</li>
+<br><i>Chaired by Andy Robinson (OpenTrack)</i>
+<ul>
+<li>Social media - best strategies for communication.</li>
 <li>Technology - How can we show the physicality of our athletes to a young audience. Live splits, instantaneous speeds, javelin attack angles, etc.</li>
-<li>IsoLynx and live split capture</li>
-<li>NFTs - attaching value to digital assets - Fabrice Doreau, Duje Bonacci</li>
 </ul>
+
+<p></p>
+<button class='collapsible'>Blockchain Technology – example of NFTs applied to Sport<br><i>Fabrice Doreau (Atos)</i></button>
+<div class='content'>
+<p></p>
+</div>
+
+<p></p>
+<button class='collapsible'>NFTs - attaching value to digital assets<br><i>Duje Bonacci (trackmeetings.info)</i></button>
+<div class='content'>
+<p></p>
+</div>
 </p>
 <p>Any federation doing good things with social media is invited to make contact and give a brief presentation</p>
 "
@@ -34,7 +45,7 @@
 </p>"
 
 - time: 17:00 - 20:00
-  info: "<p><b>Masters Athletics Gala / EAP Meeting</b>
+  info: "<p><div class='secondary'>Masters Athletics Gala / EAP Meeting</div>
   <br>A one-evening athletics meeting with elite masters and senior events.  Open to any AthTech participants.  Hopefully using some of the technology shown at AthTech!
   <i><br>Bring your spikes or your tech
   <br>Hands on demos of systems, capture</i>

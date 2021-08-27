@@ -3,10 +3,9 @@
 <br>We will hear the technology strategy of the 2 biggest international athletics bodies and have the opportunity for questions.
 <ul>
 <li>Introductions from the Rector of Zadar University</i></li>
+<li>Christian Milz <i>(CEO, European Athletics, speaking remotely)</i></li>
 <li>Nicolas Launois <i>(Head of Digital & Data, European Athletics)</i></li>
 <li>An Dang Duy <i>(CIO, World Athletics)</i></li>
-<li>Christian Milz <i>(CEO, European Athletics, speaking remotely)</i></li>
-
 </ul>
 </p>"
 
@@ -29,12 +28,19 @@
 <br>Covid has taught us that people want to watch athletics at all levels from low key fixtures up to major championships. We want to display the options available for a range of budgets.
 
 <p></p>
-<button class='collapsible'>Streaming at the European Championships<br><i>Paul Castel (MatSport) and Antonio Seoane (ATOS)</i></button>
+<button class='collapsible'>European Athletics<br><i>To be confirmed</i></button>
+<div class='content'>
+<p>Technical set-up for European Athletics live streaming, streaming figures in 2021, and a case study of a specific German language remote production and streaming.</p>
+</div>
+
+<p></p>
+<button class='collapsible'>Live tracking by Isolynx and its use in TV broadcast<br><i>Paul Castel (MatSport) and Antonio Seoane (ATOS)</i></button>
 <div class='content'>
 <p></p>
 </div>
 
-<p></p><button class='collapsible'>Streaming elite-level meetings in Serbia meetings<br><i>Danilo Lukic (Elegra)</i></button>
+<p></p>
+<button class='collapsible'>Streaming elite-level meetings in Serbia meetings<br><i>Danilo Lukic (Elegra)</i></button>
 <div class='content'>
 <p></p>
 </div>
@@ -47,6 +53,7 @@
 <br><br>A hands-on demonstration will be provided of how high-level but small-scale athletics meetings have been broadcast in the UK using OBS streaming software and OpenTrack TV graphics, as well as a discussion on innovation in the area and how grassroots athletics can be promoted to a wider audience.
 </p>
 </div>
+
 <i><br>How pros do it (VincoSport, AMA Livestreaming)
 <br>The case for a standard lightweight messaging format</i>
 </p>"
