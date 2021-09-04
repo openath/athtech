@@ -54,17 +54,10 @@
 </p>
 </div>
 
-<p></p>
-<button class='collapsible'>PhotoFinish - past, present and future<br><i>Don Anderson (Premier Timing, UK)</i></button>
-<div class='content'>
-<p>Don's firm has been providing timing services to over 80 meetings each summer in the London area, for many years.  
-He'll present an overview of how things have developed, not just technically but in the organisation of the sport.
-</p>
-</div>
-
-<i><br>How pros do it (VincoSport, AMA Livestreaming)
-<br>The case for a standard lightweight messaging format</i>
 </p>"
+
+- time: 14:00 - 14:30
+  info: Break
 
 
 - time: 14:30 - 15:30
@@ -90,7 +83,19 @@ He'll present an overview of how things have developed, not just technically but
 He'll present an overview of how things have developed, not just technically but in the organisation of the sport.
 </p>
 </div>
+
+<p></p>
+<button class='collapsible'>Timing - past, present and future<br><i>Don Anderson (Premier Timing, UK)</i></button>
+<div class='content'>
+<p>Don's firm has been providing photofinish and chip timing services to over 80 meetings each summer in the London area, for many years.  
+He'll present an overview of how things have developed, not just technically but in the organisation of the sport.
+</p>
+</div>
+
+
 "
+- time: 16:00 - 18:30
+  info: Stroll to stadium (10min)
 
 - time: 16:00 - 18:30
   info: "<p><b>Vendor technology demonstrations at the stadium</b> 
