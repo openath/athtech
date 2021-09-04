@@ -23,7 +23,7 @@
 - time: 11:15 - 12:30
   info: "<p><b>Brunch & networking</b></p>"
 
-- time: 12:30 - 15:00
+- time: 12:30 - 14:00
   info: "<p><b>Live broadcast and Streaming</b>
 <br>Covid has taught us that people want to watch athletics at all levels from low key fixtures up to major championships. We want to display the options available for a range of budgets.
 
@@ -66,7 +66,29 @@ He'll present an overview of how things have developed, not just technically but
 <br>The case for a standard lightweight messaging format</i>
 </p>"
 
-- time: 15:30 - 18:30
+
+- time: 14:30 - 15:30
+  info: "<p><b>Mid level meetings/b> 
+  <br>How can meetings below the TV/Sponsorship threshold be successful and thrive?  
+  </p>
+
+<p></p>
+<button class='collapsible'>The EAP Circuit<br><i>Pablo Cassina (EAP President)</i></button>
+<div class='content'>
+<p>The EAP circuit aims to provide a network of good quality meetings below the World/European tours.
+</p>
+</div>
+
+<p></p>
+<button class='collapsible'>PhotoFinish - past, present and future<br><i>Don Anderson (Premier Timing, UK)</i></button>
+<div class='content'>
+<p>Don's firm has been providing timing services to over 80 meetings each summer in the London area, for many years.  
+He'll present an overview of how things have developed, not just technically but in the organisation of the sport.
+</p>
+</div>
+"
+
+- time: 16:00 - 18:30
   info: "<p><b>Vendor technology demonstrations at the stadium</b> 
   <br>Street food, breakout rooms available (until as late as you want).
   <br><br><a href='https://opentrack.run/'>OpenTrack</a> will be demonstrating their competition management system.
