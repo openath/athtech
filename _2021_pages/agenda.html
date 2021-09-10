@@ -49,12 +49,14 @@ published: true
               font-size: 12px;
               width: 95%;
               margin: 0px;
+              column-width: auto;
             }
 
             .secondary{
                 color: #3cb371;
                 font-weight: bold;
             }
+
         </style>
     </head>
 
@@ -108,16 +110,168 @@ published: true
             <thead>
                 <tr>
                     <th class="row-1 agenda-time"><center>Time</center></th>
-                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
+                    <th class="row-2 agenda-activity"><center>Lecture Hall</center></th>  
+                    <th class="row-2 agenda-activity"><center>Room 2</center></th>  
                 </tr>
             </thead>
             <tbody>
-                {% for agenda in site.data.twenty_21.agendas_wed %}
-                    <tr>
-                        <td>{{ agenda.time }}</td>
-                        <td>{{ agenda.info }}</td>
-                    </tr> 
-                {% endfor %}
+                <tr>
+                    <td>09:00-09:15</td>
+                    <td colspan="2">
+                        <p><b>Practical Introductions</b>
+                        <br><i>Duje Bonacci, Andy Robinson</i>
+                    </td>
+                </tr>
+                <tr>
+                    <td>09:15-10:15</td>
+                    <td colspan="2">
+                        <p><b>Keynote 1: <br>View from governing bodies, where they are, where they want to go</b>
+                        <br>We will hear the technology strategy of the 2 biggest international athletics bodies and have the opportunity for questions.
+                        <ul>
+                        <li>Introduction from the Rector of Zadar University</i></li>
+                        <li>Christian Milz <i>(CEO, European Athletics, speaking remotely)</i></li>
+                        <li>Nicolas Launois <i>(Head of Digital & Data, European Athletics)</i></li>
+                        <li>An Dang Duy <i>(CIO, World Athletics)</i></li>
+                        </ul>
+                        </p>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>10:15-10:30</td>
+                    <td colspan="2">Coffee Break</td>
+                </tr>
+
+
+                <tr>
+                    <td>10:30-11:30</td>
+                    <td colspan="2">
+                        <p><b>Progress towards a single athletics calendar</b>
+                        <br>Three presentations looking at the road to making everyone’s life easier by having a common calendar repository and set of standards.</p>
+                        <ul><li>After the first year of the European project we will review the challenges ahead. <br><i>(Andy Robinson, OpenTrack CEO, and Nicolas Launois, EA Head of Digital)</i></li>
+                        <li>The drive to a common data standard to allow calendar events to be passed between systems; overview of tools and techniques to work with calendars. <br><i>(Martin Alvarez, Huawei)</i></li>
+                        <li>Presenting event-level data from the calendar to allow search by date, location and desired event parameters <br><i>(Duje Bonacci, trackmeetings.info)</i></li>
+                        </ul>
+                        <p>World Athletics will introduce their plans and subsequent workshop
+                    </td>
+                </tr>
+
+
+                <tr>
+                    <td>11:30-12:30</td>
+                    <td colspan="2">Brunch and Networking</td>
+                </tr>
+
+
+                <tr>
+                    <td>12:30-13:30</td>
+                    <td> 
+                        <p><b>Premium athletics with grass-roots budgets</b> 
+                          <br>How can meetings below the TV/Sponsorship threshold be successful and thrive?  We look at what's happening at the upper club level</p>
+
+                        <p></p>
+                        <button class='collapsible'>Improving the quality of meetings<br><i>Pablo Cassina (EAP Circuit President)</i></button>
+                        <div class='content'>
+                        <p><i>Synopsis to be provided</i></p>
+                        </div>
+
+                        <p></p>
+                        <button class='collapsible'>Successful Open Meetings<br><i>George Loxton (President, Univ of Birmingham AC)</i></button>
+                        <div class='content'>
+                        <p><i>Symposis to be provided</i></p>
+                        </div>
+
+                        <p></p>
+                        <button class='collapsible'>Timing - past, present and future<br><i>Don Anderson (Premier Timing, UK)</i></button>
+                        <div class='content'>
+                        <p>Don's firm has been providing photofinish and chip timing services to over 80 meetings each summer in the London area, for many years.  
+                        He'll present an overview of how things have developed, not just technically but in the organisation of the sport.
+                        </p>
+                        </div>
+
+                    </td>
+                    <td> 
+                        <p><b>Calendar Seminar - World Athletics</b> 
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>13:30-14:00</td>
+                    <td colspan="2">Break</td>
+                </tr>
+
+                <tr>
+                    <td>14:00-15:30</td>
+                    <td colspan="2">
+                        <p><b>Live broadcast and Streaming</b>
+                        <br>Covid has taught us that people want to watch athletics at all levels from low key fixtures up to major championships. We show options available for a range of budgets.
+
+                        <p></p>
+                        <button class='collapsible'>European Athletics<br><i>To be confirmed</i></button>
+                        <div class='content'>
+                        <p>Technical set-up for European Athletics live streaming, streaming figures in 2021, and a case study of a specific German language remote production and streaming.</p>
+                        </div>
+
+                        <p></p>
+                        <button class='collapsible'>Live tracking by Isolynx and its use in TV broadcast<br><i>Paul Castel (MatSport) and Antonio Seoane (ATOS)</i></button>
+                        <div class='content'>
+                        <p></p>
+                        </div>
+
+                        <p></p>
+                        <button class='collapsible'>Streaming elite-level meetings in Serbia meetings<br><i>Danilo Lukic (Elegra)</i></button>
+                        <div class='content'>
+                        <p></p>
+                        </div>
+
+                        <p></p>
+                        <button class='collapsible'>Affordable livestreaming<br><i>Jonny Currie (University of Birmingham)</i></button>
+                        <div class='content'>
+                        <p>High-end athletics events can afford to bring in professional livestream production companies to cover their meetings, but there is an increasing demand for live media coverage of smaller scale events too.
+                        <br><br>Affordable and accessible livestreaming software is on the rise, and local events are now able to provide live media coverage on a limited budget.
+                        <br><br>A hands-on demonstration will be provided of how high-level but small-scale athletics meetings have been broadcast in the UK using OBS streaming software and OpenTrack TV graphics, as well as a discussion on innovation in the area and how grassroots athletics can be promoted to a wider audience.
+                        </p>
+                        </div>
+
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>15:30-16:00</td>
+                    <td colspan="2">
+                        <p><b>Introductions from service companies</b></p>
+                        <br><i>Chair: Nicolas Launois, European Athletics</i>
+                        Companies at AthTech will be given a strict 5 minutes to introduce
+                        themselves and what they do.  Companies include Opentrack, Humotion,
+                        Seltec, Trackmeetings.info, Atletiek.nu and Atletica.me
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>16:00-16:15</td>
+                    <td colspan="2">End of formal proceedings; stroll to stadium</td>
+                </tr>
+
+                <tr>
+                    <td>16:30-18:30</td>
+                    <td colspan="2">
+                        <p><b>Vendor technology demonstrations at the stadium</b></p> 
+                          <br>Street food, breakout rooms available (until as late as you want).
+                          <br><a href='https://opentrack.run/'>OpenTrack</a> will be demonstrating their competition management system; and holding an annual feedback meeting for
+                          their customers at AthTech
+                          <br><a href='https://humotion.net/en/home/'>Humotion</a> will demonstrate their solution to capture and record training activities and results.
+                          <br><a href='https://trackmeetings.info/'>Trackmeetings.info</a> will demonstrate how their tool is used for searching for competitions and creating your personal 'favourites' list.
+                          <br>Expert users will be demonstrating <a href='https://trackmeetings.info/'>FinishLynx</a> in case anyone wants to learn more about PhotoFinish systems.
+                          
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Evening</td>
+                    <td colspan="2">Dinner provided for EA Delegates at Hotel Kolovare;
+                    numerous informal dining options in the Old Town and seafront</td>
+                </tr>
+
             </tbody>
         </table>
 
@@ -141,23 +295,7 @@ published: true
         </table>
 
         <h2>Friday 24th September</h2>
-        <p>Available for indepth workshops and training</p>
-        <table class="agenda">
-            <thead>
-                <tr>
-                    <th class="row-1 agenda-time"><center>Time</center></th>
-                    <th class="row-2 agenda-activity"><center>Activity</center></th>  
-                </tr>
-            </thead>
-            <tbody>
-                {% for agenda in site.data.twenty_21.agendas_fri %}
-                    <tr>
-                        <td>{{ agenda.time }}</td>
-                        <td>{{ agenda.info }}</td>
-                    </tr> 
-                {% endfor %}
-            </tbody>
-        </table>
+        <p>Available for meetings and workshops as needed</p>
 
         
         <h2>Call for topics</h2>
