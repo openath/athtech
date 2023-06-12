@@ -1,0 +1,29 @@
+- inverted: 
+  img: icon-about.jpeg
+  identifier: page_about
+  name: Topics, Vision, Objectives
+  info: Learn more about the objectives of the conference and how we are seeking to <i>shape the future of Athletics</i>
+  link: /2023/about
+
+- inverted: timeline-inverted
+  img: icon-agenda.jpeg
+  identifier: page_agenda
+  name: Agenda
+  info: Thursday 21st - Friday 22nd September
+  link: /2023/agenda
+
+- inverted:
+  img: icon-venue.jpeg
+  name: Venue
+  identifier: page_venue
+  info: Find out about the beautiful town of <i>Salina</i> <br> & how to get here
+  link: /2023/venue
+
+- inverted: timeline-inverted
+  img: booklet-icon.png
+  name: Register
+  identifier: page_register
+  info: Register your interest for the conference through on the OpenTrack entry system 
+  link: https://data.opentrack.run/en-gb/x/2023/MLT/athtech/
+
+
