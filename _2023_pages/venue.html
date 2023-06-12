@@ -1,0 +1,83 @@
+---
+layout: 2023_map
+permalink: /2023/venue
+title: Venue AthTech23
+published: true
+---
+
+    <!--background color-->
+    <script type="text/javascript">
+      document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
+    </script>
+
+    <script type="text/javascript">
+      $(document).ready(function() {
+        var map = L.map('venue-map').setView([35.947996697838676, 14.42833186946254], 13);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+        var myIcon = L.icon({
+            iconUrl: '/css/2023_style/img/leaflet/marker-icon-2x.png',
+            popupAnchor: [0, -36],
+        });
+        var marker = L.marker([35.947996697838676, 14.42833186946254]).addTo(map)
+            .bindPopup('Salini Resort')
+            .setIcon(myIcon)
+            .openPopup();
+      });
+    </script>
+
+    <div class="event black-frame">
+      <h1>{{ page.title }}</h1>
+      <p>21-22 September 2023<br><strong>Salina (Malta)</strong></p>
+
+      <div class="venue-map" id="venue-map"></div>
+
+      <h2 class="second">Address</h2>
+      <address>
+        Salini Resort<br>
+        Salina Bay<br>
+        Salina (Malta)
+      </address>
+
+<!--
+      <h2>Accomodation</h2>
+      <p>We currently have two hotels as partners of the Zadar SporTech Fest event, which are also welcoming the AthTech conference participants:</p>
+      <ul>
+        <li>Hotel Kolovare <a href="https://hotel-kolovare.com/hr/">(website)</a></li>
+        <li>Zaton Holiday Resort <a href="https://www.zaton.hr">(website)</a></li>
+      </ul>
+      <p>We have 50 rooms already reserved at Hotel Kolovare, and expect prices to be in the region on <strong>35-50 euros per night</strong> (incl. breakfast).</p>
+      <p>Hotel Kolovare, freshly renovated last year, is located in Zadar, 1km from the Zadar University New Campus and 2km from the Višnjik Sports Center. Actually, Uni Campus is actually right halfway between Hotel Kolovare and Višnjik so you can easily get between all three on foot, or you can take a cab or even public transport.</p>
+      <p>Zaton Holiday Resort is a luxury holiday resort slightly outside Zadar, about 13km from Višnjik. There will be a regular shuttle bus between Zaton and Višnjik so it will be as convenient for the participants of AthTech as being accommodated in downtown Zadar itself.</p>
+
+      <h2>Getting to Zadar</h2>
+      <p><strong>By road:</strong></p>
+      <p>A1 highway - Exit Zadar I</p>
+      <p>A1 highway - Exit Zadar II</p>
+      <p><a href="https://www.hac.hr/en/toll/toll-rates/a1">A1 highway toll prices</a></p>
+      <br>
+      <p><strong>By air:</strong></p>
+      <p><a href="https://www.zadar-airport.hr">Zadar Airport</a> - flights from all over Europe, particularly during the summer.</p>
+      <p><a href="http://www.split-airport.hr/">Split Airport</a> - even larger than Zadar Airport, frequent flights, 2h drive from Zadar.</p>
+      <br>
+      <p><strong>By sea:</strong></p>
+      <p>Gaženica Ferry port - ferry from Ancona.</p>
+      <p><a href="https://www.jadrolinija.hr/hr/schedule/LineSearchResults/Index/2331731/18349084/22032021">Jadrolinija ferry operator schedule and prices page for Ancona-Zadar</a></p>
+
+-->
+      
+<!--      <h4>Air Connections</h4>
+      <p>What is the nearest airport and where are its common connections within Europe?</p> 
+
+      <h4>How to get to Zadar?</h4>
+      <p>How close is the airport?</p>
+      <p>Options for getting into town from the airport:</p>
+      <ul>
+        <li><strong>TAXI</strong>: Details on taxis.</li>
+        <li><strong>BUS</strong>: Details for getting the bus.</li>
+        <li><strong>RENT A CAR</strong>: Details for renting a car.</li>
+      </ul>
+-->
+
+    </div>
