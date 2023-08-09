@@ -1,17 +1,17 @@
 - time: "09:00"
-  info: "<details open><summary>Panel: AI in athletics</summary><ul><li><strong>Can AI replace officials?</strong> - <em>Filip Moterski (Polish Athletics Association)</em></li><li><strong>Use of AI to distribute sport content</strong> - <em>Vinay Mhetre</em></li><li><strong>AI in journalism</strong></li><li><strong>Innovations for fan engagement and sports performance</strong> - <em>Martin Alvarez (Huawei)</em></li><li>...</li></ul></details>"
+  info: "<details open><summary>Panel: AI, Innovations in Athletics</summary><ul><li><strong>Can AI replace officials?</strong> - <em>Filip Moterski (Polish Athletics Association)</em></li><li><strong>Use of AI to distribute sport content</strong> - <em>Vinay Mhetre</em></li><li><strong>AI in journalism</strong></li><li><strong>Innovations for fan engagement and sports performance</strong> - <em>Martin Alvarez (Huawei)</em></li><li>...</li></ul></details>"
 
 - time: "10:30"
-  info: "<p class='break'>BREAK</p>"
+  info: "<em class='break'>BREAK</em>"
 
 - time: "11:00"
-  info: "<details open><summary>Demonstrations, Innovations and Lightning Talks</summary><ul><li><strong>OpenTrack Judge app</strong> - <em>Ivan Danyliuk</em></li><li><strong>TrackMeetings.info</strong> - <em>Duje Bonacci</em></li><li><strong>Atletiek.nu</strong> - <em>Mark van Tubergen</em></li><li><strong>VAMEVAL</strong> - <em>Johannes Rosenmoeller</em></li></ul></details>"
+  info: "<details open><summary>Demonstrations and Lightning Talks</summary><ul><li><strong>OpenTrack Judge app</strong> - <em>Ivan Danyliuk</em></li><li><strong>TrackMeetings.info</strong> - <em>Duje Bonacci</em></li><li><strong>Atletiek.nu</strong> - <em>Mark van Tubergen</em></li><li><strong>VAMEVAL</strong> - <em>Johannes Rosenmoeller</em></li></ul></details>"
 
 - time: "12:30"
-  info: "<p class='break'>LUNCH</p>"
+  info: "<em class='break'>LUNCH</em>"
 
 - time: "13:30"
   info: "<details><summary>Workshop: World Athletics APIs and how to use them - <em>Andras Szabo (World Athletics)</em> [TBC]</summary><p>...</p></details>"
 
 - time: "15:30"
-  info: "<p class='break'>WRAP-UP</p>"
+  info: "<em class='break'>Wrap up & end of the conference</em>"
