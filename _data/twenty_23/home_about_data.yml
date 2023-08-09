@@ -16,14 +16,14 @@
   img: icon-venue.jpeg
   name: Venue
   identifier: page_venue
-  info: Find out about the beautiful town of <i>Salina</i> <br> & how to get here
+  info: Find out about the beautiful town of <i>Salina (Malta)</i> <br> & how to get here
   link: /2023/venue
 
 - inverted: timeline-inverted
   img: booklet-icon.png
   name: Register
   identifier: page_register
-  info: Register your interest for the conference through on the OpenTrack entry system 
+  info: Register now through on the OpenTrack entry system 
   link: https://data.opentrack.run/en-gb/x/2023/MLT/athtech/
 
 
