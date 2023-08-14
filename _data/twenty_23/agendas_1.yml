@@ -41,7 +41,10 @@
   info: "<details open><summary>Sport in Ukraine</summary><ul><li><strong>Sport in Ukraine and how the world can help it</strong> - <em>Alina Shukh (Ukrainian Athletic Federation)</em></li><li><strong>Challenges of organising sport during wartime</strong> - <em>Ivan Kachkyivski (CEO, IKS Timing and Results Service)</em></li></ul></details>"
 
 - time: "17:00"
-  info: "<details><summary>Panel/Lightning Talks</summary><em>To define based on proposals</em></details>"
+  info: "<details open><summary>Lightning Talks</summary><ul><li><strong>OpenTrack Judge app</strong> - <em>Ivan Danyliuk</em></li><li><strong>TrackMeetings.info</strong> - <em>Duje Bonacci</em></li><li><strong>Atletiek.nu</strong> - <em>Mark van Tubergen</em></li><li><strong>VAMEVAL</strong> - <em>Johannes Rosenmoeller</em></li></ul></details>"
 
-- time: "17:30"
-  info: "<em>Wrap-up & end of the day</em>"
+- time: "18:00"
+  info: "<details><summary>Commercial Demos and Fair</summary><em>Informal pre-dinner vendor fair and networking during drinks. (Bring your products and flyers).</em></details>"
+
+- time: "19:30"
+  info: "<em class='break'>DINNER</em>"
