@@ -1,11 +1,17 @@
 - time: "09:00"
-  info: "<details open><summary>Panel: AI, Innovations in Athletics</summary><ul><li><strong>Can AI replace officials?</strong> - <em>Filip Moterski (Polish Athletics Association)</em></li><li><strong>AI in journalism</strong></li><li><strong>Innovations for fan engagement and sports performance</strong> - <em>Martin Alvarez (Huawei)</em></li><li>...</li></ul></details>"
+  info: "<details><summary><strong>Data Visualisation, Second screen experience and Gamification at World Championships</strong> - <em>An Dang Duy (World Athletics)</em></summary><span></span></details>"
+
+- time: "09:45"
+  info: "<details open><summary>Panel: AI, Innovations in Athletics</summary><ul><li><strong>Can AI replace officials?</strong> - <em>Filip Moterski (Polish Athletics Association)</em></li><li><strong>AI in journalism</strong></li><li><strong>Innovations for fan engagement and sports performance</strong> - <em>Martin Alvarez (Huawei)</em></li><li>Centralised system in Germany? - <em>Udo Laub (Polish Athletics Association)</em></li></ul></details>"
 
 - time: "10:30"
   info: "<em class='break'>BREAK</em>"
 
 - time: "11:00"
-  info: "<details><summary>Workshop: <strong>World Athletics APIs and how to use them</strong> - <em>Andras Szabo (World Athletics)</em></summary><em>...</em></details>"
+  info: "<details open><summary><strong>Global Athletics Calendar</strong> - <em>Kate Shannon (World Athletics)</em></summary><span>How is it working, and what has been the impact?</span></details>"
+
+- time: "11:30"
+  info: "<details open><summary>Workshop: <strong>Where do we want to be in 2 years and 5 years?</strong></summary><span>Looking at our vision and plans from 5 years ago, the data and APIs now available.  What kinds of data standards and interactions do we need? Introduction, small group discussions, synthesis.</span></details>"
 
 - time: "13:00"
-  info: "<em class='break'>Wrap up & end of the conference</em>"
+  info: "<em class='break'>Wrap up & end of the conference</em><br/><small>Who wants to host AthTech 2025?</small>"
