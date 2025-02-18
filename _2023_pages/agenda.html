@@ -12,12 +12,14 @@ published: true
     <div class="event black-frame">
         <h1>{{ page.title }}</h1>
 
-            <h2>Thursday 21st Sep</h2>
+            <p><a href="https://drive.google.com/drive/u/1/folders/1v7B795UQn-VFRx1Er3awpApL0giHMk87">Slides in the shared folder</a>.</p>
+
+            <h2>Thursday 21<sup>st</sup> <abbr title="September">Sep</abbr></h2>
             <table class="agenda">
                 <thead>
                     <tr>
-                        <th class="row-1 agenda-time">Time</th>
-                        <th class="row-2 agenda-activity">Activity</th>  
+                        <th scope="col" class="row-1 agenda-time">Time</th>
+                        <th scope="col" class="row-2 agenda-activity">Activity</th>  
                     </tr>
                 </thead>
 
@@ -29,12 +31,12 @@ published: true
                 {% endfor %}
             </table>
 
-            <h2>Friday 22nd Sep</h2>
+            <h2>Friday 22<sup>nd</sup> <abbr>Sep</abbr></h2>
             <table class="agenda">
                 <thead>
                     <tr>
-                        <th class="row-1 agenda-time">Time</th>
-                        <th class="row-2 agenda-activity">Activity</th>  
+                        <th scope="col" class="row-1 agenda-time">Time</th>
+                        <th scope="col" class="row-2 agenda-activity">Activity</th>  
                     </tr>
 
                 </thead>
@@ -47,29 +49,12 @@ published: true
                 {% endfor %}
             </table>
 
-            <h2>Call for topics</h2>
+            
+            <!-- h2>Call for topics</h2>
             <h3>What would you like to see?</h3>
-            <p>If you have any ideas or suggestions, or would like to get in touch about delivering a seminar/workshop yourself, please email us at <a href="mailto://athtech@opentrack.run">athtech@opentrack.run</a>.</p>
+            <p>If you have any ideas or suggestions, or would like to get in touch about delivering a seminar/workshop yourself, please email us at <a href="mailto://athtech@opentrack.run">athtech@opentrack.run</a>.</p -->
     
         </div>
             
 
     </div>
-
-
-    <script>
-        var coll = document.getElementsByClassName("collapsible");
-        var i;
-        
-        for (i = 0; i < coll.length; i++) {
-          coll[i].addEventListener("click", function() {
-            this.classList.toggle("active");
-            var content = this.nextElementSibling;
-            if (content.style.maxHeight){
-              content.style.maxHeight = null;
-            } else {
-              content.style.maxHeight = content.scrollHeight + "px";
-            } 
-          });
-        }
-    </script>
