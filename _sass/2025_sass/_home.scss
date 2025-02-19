@@ -63,7 +63,7 @@ body, textarea {
 
 /*backgound picture in home*/
 .home-background {
-  background: url('/css/2025_style/img/sanmarino.jpg') no-repeat center center;
+  background: url('{{ site.baseurl }}/css/2025_style/img/sanmarino.jpg') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;

@@ -389,7 +389,7 @@
 
 /* Default icon URLs */
 .leaflet-default-icon-path {
-	background-image: url(/css/2025_style/img/leaflet/marker-icon.png);
+	background-image: url({{ site.baseurl }}/css/2025_style/img/leaflet/marker-icon.png);
 	}
 
 
