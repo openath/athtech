@@ -1,0 +1,8 @@
+- time: "15:00"
+  info: "<details><summary>Welcoming speech and briefing</summary><span>...</span></details>"
+
+- time: "15:30"
+  info: "<details><summary>Sessions day 1</summary><span>...</span></details>"
+
+- time: "20:00"
+  info: "<em class='break'>Dinner</em>"

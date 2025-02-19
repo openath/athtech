@@ -1,0 +1,49 @@
+---
+layout: 2025_map
+permalink: /2025/venue
+title: Venue AthTech25
+published: true
+---
+
+    <!--background color-->
+    <script type="text/javascript">
+      document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
+    </script>
+
+    <script type="text/javascript">
+      $(document).ready(function() {
+        var map = L.map('venue-map').setView([43.93379155473713, 12.449216012618864], 13);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+        var myIcon = L.icon({
+            iconUrl: '/css/2023_style/img/leaflet/marker-icon-2x.png',
+            popupAnchor: [0, -36],
+        });
+        var marker = L.marker([43.93379155473713, 12.449216012618864]).addTo(map)
+            .bindPopup('Grand Hotel San Marino')
+            .setIcon(myIcon)
+            .openPopup();
+      });
+    </script>
+
+    <div class="event black-frame">
+      <h1>{{ page.title }}</h1>
+
+      <p>The conference will be held at <strong>Grand Hotel San Marino</strong>. The nearest airports are:</p>
+      <ul>
+        <li>Rimini, Federico Fellini Airport: 27 Km</li>
+        <li>Forlì, R. Ridolfi Airport: 72 Km</li>
+        <li>Bologna, G. Marconi Airport, 132 Km</li>
+      </ul>
+      
+      <div class="venue-map" id="venue-map"></div>
+
+      <h2 class="second">Address</h2>
+      <address>
+        GRAND HOTEL SAN MARINO<br>
+        Viale Antonio Onofri, 31<br>
+        47890 Città di San Marino, San Marino
+      </address>
+
+    </div>

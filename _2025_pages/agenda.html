@@ -1,0 +1,78 @@
+---
+layout: 2025_default
+permalink: /202/agenda
+title: AthTech25 Agenda 
+published: true
+---
+    <!--background color-->
+    <script type="text/javascript">
+        document.write ('<body style="background: Gainsboro; background-attachment: fixed;">')
+    </script>
+
+    <div class="event black-frame">
+        <h1>{{ page.title }}</h1>
+
+            <!--p><a href="https://drive.google.com/drive/u/1/folders/1v7B795UQn-VFRx1Er3awpApL0giHMk87">Slides in the shared folder</a>.</p-->
+
+            
+            <h2>Call for topics</h2>
+            <h3>What would you like to see?</h3>
+            <p>If you have any ideas or suggestions, or would like to get in touch about delivering a talk, panel, workshop yourself, please email us at <a href="mailto://athtech@opentrack.run">athtech@opentrack.run</a>.</p>
+
+            <h2>Tuesday 7<sup>th</sup> <abbr title="October">Oct</abbr></h2>
+            <table class="agenda">
+                <thead>
+                    <tr>
+                        <th scope="col" class="row-1 agenda-time">Time</th>
+                        <th scope="col" class="row-2 agenda-activity">Activity</th>  
+                    </tr>
+                </thead>
+
+                {% for agenda in site.data.twenty_25.agendas_1 %}
+                    <tr>
+                        <td>{{ agenda.time }}</td>
+                        <td>{{ agenda.info }}</td>
+                    </tr> 
+                {% endfor %}
+            </table>
+
+            <h2>Wednesday 8<sup>th</sup> <abbr>Oct</abbr></h2>
+            <table class="agenda">
+                <thead>
+                    <tr>
+                        <th scope="col" class="row-1 agenda-time">Time</th>
+                        <th scope="col" class="row-2 agenda-activity">Activity</th>  
+                    </tr>
+
+                </thead>
+
+                {% for agenda in site.data.twenty_25.agendas_2 %}
+                    <tr>
+                        <td>{{ agenda.time }}</td>
+                        <td>{{ agenda.info }}</td>
+                    </tr> 
+                {% endfor %}
+            </table>
+
+            <h2>Thursday 10<sup>th</sup> <abbr title="October">Oct</abbr></h2>
+            <table class="agenda">
+                <thead>
+                    <tr>
+                        <th scope="col" class="row-1 agenda-time">Time</th>
+                        <th scope="col" class="row-2 agenda-activity">Activity</th>  
+                    </tr>
+                </thead>
+
+                {% for agenda in site.data.twenty_25.agendas_3 %}
+                    <tr>
+                        <td>{{ agenda.time }}</td>
+                        <td>{{ agenda.info }}</td>
+                    </tr> 
+                {% endfor %}
+            </table>
+
+    
+        </div>
+            
+
+    </div>
