@@ -16,16 +16,16 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="hidden">
-                        <a href="/2025"></a>
+                        <a href="{{ '/2025' | prepend: site.baseurl }}"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="/2025/about">About</a>
+                        <a class="page-scroll" href="{{ '/2025/about' | prepend: site.baseurl }}">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="/2025/agenda">Agenda</a>
+                        <a class="page-scroll" href="{{ '/2025/agenda' | prepend: site.baseurl }}">Agenda</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="/2025/venue">Venue</a>
+                        <a class="page-scroll" href="{{ '/2025/venue' | prepend: site.baseurl }}">Venue</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="mailto:athtech@opentrack.run">Contact</a>
