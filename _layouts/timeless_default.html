@@ -4,19 +4,19 @@
   <style type="text/css">
     /*INCLUDE MAIN CSS FILE*/
     {% capture criticalcss %}
-      {% include /2025_css/critical.scss %}
+      {% include /2023_css/critical.scss %}
     {% endcapture %}
     {{ criticalcss | scssify }}
-    {% include /2025_css/leaflet.css %}
+    {% include /2023_css/leaflet.css %}
   </style>
   
-  {% include /2025_data/js.html %}
-  {% include /2025_data/head.html %}
+  {% include /2023_data/js.html %}
+  {% include /2023_data/head.html %}
 
   <body>
-    {% include /2025_data/header.html %}
+    {% include /2023_data/header.html %}
         {{ content }}
-    {% include /2025_data/footer.html %}
+    {% include /2023_data/footer.html %}
   </body>
   
 </html>
