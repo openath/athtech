@@ -17,7 +17,7 @@ published: true
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
         }).addTo(map);
         var myIcon = L.icon({
-            iconUrl: '/css/2023_style/img/leaflet/marker-icon-2x.png',
+            iconUrl: '{{ site.baseurl }}/css/2023_style/img/leaflet/marker-icon-2x.png',
             popupAnchor: [0, -36],
         });
         var marker = L.marker([35.947996697838676, 14.42833186946254]).addTo(map)
