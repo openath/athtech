@@ -1,5 +1,20 @@
-- time: "09:00"
-  info: "<details><summary>Sessions day 3</summary><span>...</span></details>"
+- time: "08:00"
+  info: "<em class='break'>Breakfast</em>"
 
-- time: "14:30"
-  info: "<details><summary>End of the day</summary><span>More details soon</span></details>"
+- time: "09:00"
+  info: "<details><summary>Digital Identity in Athletics</summary><ul><li>EU DI Wallet</li><li>ITA RunCard</li><li>SUI Swiss Running ID</li><li>[...]</li></ul></details>"
+
+- time: "09:45"
+  info: "<details><summary>Workshop: How to use Digital ID for Member Federations</summary><span>[more details soon]</span></details>"
+
+- time: "10:30"
+  info: "<em class='break'>Coffee Break</em>"
+
+- time: "11:00"
+  info: "<details><summary>New Technologies in Athletics</summary><ul><li>How to certify equipment [TBC]</li><li>Products4sports: lightweight, unmanned, automatic photo finish camera</li><li>[...]</li></ul></details>"
+
+- time: "12:30"
+  info: "<em class='break'>Lunch</em>"
+
+- time: "14:00"
+  info: "<em class='break'>Participant's departure</em>"

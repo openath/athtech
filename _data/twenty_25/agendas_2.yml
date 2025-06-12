@@ -1,5 +1,56 @@
-- time: "09:00"
-  info: "<details><summary>Sessions day 2</summary><span>More details soon</span></details>"
+- time: "07:00"
+  info: "<details><summary>Social Run</summary><span>Social running activity through the city centre of San Marino. For all levels.</span></details>"
 
-- time: "~18:30"
-  info: "<details><summary>End of the day</summary><span>More details soon</span></details>"
+- time: "08:00"
+  info: "<em class='break'>Breakfast</em>"
+
+- time: "09:00"
+  info: "<details><summary>Welcoming speeches and introduction</summary><span>Introductory speeches by European Athletics and  San Marino Authorities.</span></details>"
+
+- time: "09:30"
+  info: "<details><summary>San Marino Innovation</summary><span>[more details soon]</span></details>"
+
+- time: "09:45"
+  info: "<details><summary>EA's Latest Innovations</summary><span>EA presentation including information about the live results platform and upcoming application.</span></details>"
+
+- time: "10:00"
+  info: "<details><summary>Use of data to chase the cheaters - <em>Alejandro Lozano-Buron (World Athletics)</em></summary><span>EA presentation including information about the live results platform and upcoming application.</span></details>"
+
+- time: "10:30"
+  info: "<em class='break'>Coffee Break</em>"
+
+- time: "11:00"
+  info: "<details><summary>How do we deal with Change Management - <em>(HyperKube)</em></summary><span>[more details soon]</span></details>"
+
+- time: "11:30"
+  info: "<details><summary>Breakout Sessions: Are we ready for change in athletics?</summary><span> What could be changed [more details soon]</span></details>"
+
+- time: "12:00"
+  info: "<details><summary>Summary of the group discussions</summary><span>Main takeaways from the breakout sessions.</span></details>"
+
+- time: "12:30"
+  info: "<em class='break'>Lunch</em>"
+
+- time: "14:00"
+  info: "<details><summary>World Athletics Presentation - <em>An Dang Duy, Andras Szabo (World Athletics)</em></summary><span>[more details soon]</span></details>"
+
+- time: "14:30"
+  info: "<details><summary>Member Federations' updates</summary><span>[more details soon]</span></details>"
+
+- time: "15:30"
+  info: "<em class='break'>Coffee Break</em>"
+
+- time: "16:00"
+  info: "<details><summary>EICH25: smart technology and planning</summary><span>[more details soon]</span></details>"
+
+- time: "16:30"
+  info: "<details><summary>Vendors' Presentations</summary><span>[more details soon]</span></details>"
+
+- time: "17:30"
+  info: "<details><summary>Fair & Demos</summary><span>[more details soon]</span></details>"
+
+- time: "18:30"
+  info: "<em class='break'>Touristic Activities</em>"
+
+- time: "20:00"
+  info: "<em class='break'>Dinner</em>"

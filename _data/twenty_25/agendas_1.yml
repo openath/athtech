@@ -1,8 +1,14 @@
 - time: "15:00"
-  info: "<details><summary>Welcoming speech and briefing</summary><span>...</span></details>"
+  info: "<details><summary>Registration & Networking</summary><span>Icebreaking and networking activities for the participants.</span></details>"
 
-- time: "15:30"
-  info: "<details><summary>Sessions day 1</summary><span>...</span></details>"
+- time: "16:30"
+  info: "<em class='break'>Coffee Break</em>"
+
+- time: "17:00"
+  info: "<details><summary>Introduction and Breakouts</summary><span>Informal chat, 2023 recap, introduction for new people. Focus on next EA Convention. Breakout activities/groups.</span></details>"
+
+- time: "18:30"
+  info: "<em class='break'>Networking</em>"
 
 - time: "20:00"
   info: "<em class='break'>Dinner</em>"
