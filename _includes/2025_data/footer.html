@@ -17,16 +17,16 @@ footer {
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-md-8">
-                <span class="copyright">© {{ 'now' | date: "%Y" }}. Event organised by <a href="http://www.european-athletics.org/">European Athletics</a> and hosted by <a href="https://www.fsal.sm/">San Marino Athletics Federation</a>.</span>
+            <div class="col-md-12">
+                <span class="copyright">© {{ 'now' | date: "%Y" }}. Event organised by <a href="http://www.european-athletics.org/"><img src="{{ '/css/2025_style/img/logos/ea_logo.png' | prepend: site.baseurl }}" alt="European Athletics" height="80" ></a> hosted by <a href="https://www.fsal.sm/"><img src="{{ '/css/2025_style/img/logos/sanmarino.png' | prepend: site.baseurl }}" alt="San Marino Athletics Federation" height="80" ></a> and the collaboration of <img src="{{ '/css/2025_style/img/logos/youstar.png' | prepend: site.baseurl }}" alt="YouStar" height="50" ></span>
             </div>
-            <div class="col-md-4">
+            <!-- div class="col-md-4">
                 <ul class="list-inline social-buttons">
                     {% for network in site.social %}
                         <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a></li>
                     {% endfor %}
                 </ul>
-            </div>
+            </div-->
         </div>
     </div>
 </footer>
