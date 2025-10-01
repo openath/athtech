@@ -12,6 +12,15 @@ footer {
   bottom: 0;
   left: 0;
 }
+#youstar-logo {
+    height: 40px;
+}
+#ea-logo {
+    height: 80px;
+}
+#smr-logo {
+    height: 100px;
+}
 </style>
 
 <footer>
@@ -19,17 +28,17 @@ footer {
         <div class="row">
             <div class="col-xs-4">
                 <span class="copyright">Organized by:<br>
-                    <a class="sponsor" href="http://www.european-athletics.org/"><img src="{{ '/css/2025_style/img/logos/ea_logo.png' | prepend: site.baseurl }}" alt="European Athletics" height="80" ></a>
+                    <a href="http://www.european-athletics.org/"><img class="sponsor" src="{{ '/css/2025_style/img/logos/ea_logo.png' | prepend: site.baseurl }}" alt="European Athletics" id="ea-logo" ></a>
                 </span>
             </div>
             <div class="col-xs-4">
                 <span class="copyright">Hosted by:<br> 
-                    <a class="sponsor" href="https://www.fsal.sm/"><img src="{{ '/css/2025_style/img/logos/sanmarino.png' | prepend: site.baseurl }}" alt="San Marino Athletics Federation" height="100" ></a>
+                    <a href="https://www.fsal.sm/"><img class="sponsor" src="{{ '/css/2025_style/img/logos/sanmarino.png' | prepend: site.baseurl }}" alt="San Marino Athletics Federation" id="smr-logo"></a>
                 </span>
             </div>
             <div class="col-xs-4">
                 <span class="copyright">Supported by:<br>
-                    <img class="sponsor" src="{{ '/css/2025_style/img/logos/youstar.png' | prepend: site.baseurl }}" alt="YouStar" height="40" >
+                    <img class="sponsor" id="youstar-logo" src="{{ '/css/2025_style/img/logos/youstar.png' | prepend: site.baseurl }}" alt="YouStar"  >
                 </span>
             </div>
             <!-- div class="col-md-4">

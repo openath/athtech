@@ -28,7 +28,7 @@
 
 @media screen and (max-width : 1200px){
   .event {
-      margin: 100px 15vw 150px 15vw;
+      margin: 100px 15vw 100px 15vw;
   }
 }
 
@@ -37,7 +37,7 @@
     height: 45vh;
   }
   .event {
-      margin: 80px 10px 150px 10px;
+      margin: 80px 10px 100px 10px;
   }
   h1 {
     font-size: 130%;
@@ -48,8 +48,14 @@
   p, ol, li {
     font-size: 100%;
   }
-  img.sponsor {
-    max-height: 5rem;
+  #youstar-logo {
+    height: 20px;
+  }
+  #ea-logo {
+      height: 40px;
+  }
+  #smr-logo {
+      height: 50px;
   }
 }
 
