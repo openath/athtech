@@ -2,19 +2,19 @@
   info: "<em class='break'>Breakfast</em>"
 
 - time: "09:00"
-  info: "<details><summary>Digital Identity in Athletics</summary><ul><li>EU DI Wallet</li><li>ITA RunCard</li><li>SUI Swiss Running ID</li><li>[...]</li></ul></details>"
+  info: "<details><summary>Digital Identity in Athletics</summary><ul><li><abbr title='European Digital Identity'>EUDI</abbr> Wallets in Athletics</li><li>ITA RunCard</li><li>SUI Swiss Running ID</li><li>[...]</li></ul></details>"
 
-- time: "09:45"
-  info: "<details><summary>Workshop: How to use Digital ID for Member Federations</summary><span>[more details soon]</span></details>"
+- time: "10:00"
+  info: "<details><summary>Workshop: How to Use Digital Identity by Member Federations</summary><span>Practical discussion about the opportunities brought by digital identities with real application to the European athletics ecosystem.</span></details>"
 
 - time: "10:30"
   info: "<em class='break'>Coffee Break</em>"
 
 - time: "11:00"
-  info: "<details><summary>New Technologies in Athletics</summary><ul><li>How to certify equipment [TBC]</li><li>Products4sports: lightweight, unmanned, automatic photo finish camera</li><li>[...]</li></ul></details>"
+  info: "<details><summary>New Technologies, Innovations in Athletics (lightning talks)</summary><ul><li>How to certify equipment</li><li>Products4sports: lightweight, unmanned, automatic photo finish camera</li><li>Slot for lightning talks</li></ul></details>"
 
-- time: "12:30"
+- time: "12:00"
   info: "<em class='break'>Lunch</em>"
 
-- time: "14:00"
+- time: "13:30"
   info: "<em class='break'>Participant's departure</em>"

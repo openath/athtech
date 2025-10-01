@@ -5,16 +5,16 @@
   info: "<em class='break'>Breakfast</em>"
 
 - time: "09:00"
-  info: "<details><summary>Welcoming speeches and introduction</summary><span>Introductory speeches by European Athletics and  San Marino Authorities.</span></details>"
+  info: "<details><summary>Intro and Welcome - <em>European Athletics</em></summary><span>Introductory speeches by European Athletics and San Marino Authorities.</span></details>"
+
+- time: "09:10"
+  info: "<details><summary>Intro and Welcome - <em>SMR Authorities, San Marino Innovation</em></summary><span>Introductory speeches by San Marino Authorities and San Marino Innovation.</span></details>"
 
 - time: "09:30"
-  info: "<details><summary>San Marino Innovation</summary><span>[more details soon]</span></details>"
-
-- time: "09:45"
-  info: "<details><summary>EA's Latest Innovations</summary><span>EA presentation including information about the live results platform and upcoming application.</span></details>"
+  info: "<details><summary>Use of data to chase the cheats - <em>Alejandro Lozano-Buron (Athletics Integrity Unit)</em></summary><span>A look inside the Athletics Integrity Unit...</span></details>"
 
 - time: "10:00"
-  info: "<details><summary>Use of data to chase the cheats - <em>Alejandro Lozano-Buron (Athletics Integrity Unit)</em></summary><span>A look inside the Athletics Integrity Unit...</span></details>"
+  info: "<details><summary>Q&A and Discussion</summary><span>Opportunity for an open discussion about the topics covered.</span></details>"
 
 - time: "10:30"
   info: "<em class='break'>Coffee Break</em>"
@@ -23,7 +23,7 @@
   info: "<details><summary>How do we deal with Change Management - <em>(HyperKube)</em></summary><span>[more details soon]</span></details>"
 
 - time: "11:30"
-  info: "<details><summary>Breakout Sessions: Are we ready for change in athletics?</summary><span> What could be changed [more details soon]</span></details>"
+  info: "<details><summary>Breakout Sessions: Are we ready for change in athletics?</summary><span> What could be changed? Breakout table discussions to define the future strategy.</span></details>"
 
 - time: "12:00"
   info: "<details><summary>Summary of the group discussions</summary><span>Main takeaways from the breakout sessions.</span></details>"
@@ -35,22 +35,25 @@
   info: "<details><summary>World Athletics Presentation - <em>An Dang Duy, Andras Szabo (World Athletics)</em></summary><span>[more details soon]</span></details>"
 
 - time: "14:30"
-  info: "<details><summary>Member Federations' updates</summary><span>[more details soon]</span></details>"
+  info: "<details><summary>Live Results Platform - <em>European Athletics</em></summary><span>EA's presentation on new platform and App roll-out. Including TEC and Sportzinteractiv.</span></details>"
+
+- time: "15:00"
+  info: "<details><summary>Member Federations' updates</summary><span>MF's updates on their digital transformation processes.</span></details>"
 
 - time: "15:30"
   info: "<em class='break'>Coffee Break</em>"
 
 - time: "16:00"
-  info: "<details><summary>EICH25: smart technology and planning</summary><span>[more details soon]</span></details>"
+  info: "<details><summary>European Athletics Indoor Championships 2025: Key Learnings from the Organisers - <em>Sebastiaan Durant</em></summary><span>Talk about the importance of a strong network and planning</span></details>"
 
 - time: "16:30"
-  info: "<details><summary>Vendors' Presentations</summary><span>[more details soon]</span></details>"
+  info: "<details><summary>Innovators' Presentations</summary><span>Innovative companies and individuals presenting solutions that contributes to the digital transformation of athletics.</span></details>"
 
 - time: "17:30"
-  info: "<details><summary>Fair & Demos</summary><span>[more details soon]</span></details>"
+  info: "<details><summary>Fair & Demos</summary><span>Exhibition of products and services aligned to the topics under discussion.</span></details>"
 
 - time: "18:30"
   info: "<em class='break'>Touristic Activities</em>"
 
 - time: "20:00"
-  info: "<em class='break'>Gala Dinner at <em>Kursaal Congress Center</em></em>"
+  info: "<em class='break'>Gala Dinner at Kursaal Congress Center <small>(suggested dress code: business casual)</small></em>"
